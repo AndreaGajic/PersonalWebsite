@@ -1,0 +1,104 @@
+body {
+  background: white;
+  margin: 0;
+}
+
+h1 {
+  color: #EFF3FE;
+  margin: 0px;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#story-pic {
+  padding: 5px;
+  margin: 0;
+}
+
+#florence-nightingale-portrait {
+  padding: 5px;
+  margin: 0;
+}
+.title1 {
+  color: #265092;
+}
+
+.story1 {
+  width: 270px;
+  border: 1px solid white;
+}
+
+.florence-nightingale {
+  width: 270px;
+  border: 1px solid white;
+}
+
+.excerpt {
+  word-wrap: normal;
+  font-size: 12;
+  padding: 10px;
+  margin: 0;
+  line-height: 1;
+}
+
+.lyric1 {
+  font-style: italic;
+  line-height: 1;
+}
+
+.return {
+  text-align: center;
+}
+
+.keep-reading {
+  font-size: 14;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.div {
+  display: table-cell;
+  text-align: center;
+  vertical-align: top;
+  width: 50%;
+  padding: 1rem;
+}
+
+.title {
+  overflow: hidden;
+  background-color: #5F91E0;
+}
+
+.nav {
+  overflow: hidden;
+  background-color: #27385E;
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin: 5px;
+  padding: 15px;
+}
+
+.nav a:hover {
+  background-color: #D1E5FE;
+  color: black;
+}
